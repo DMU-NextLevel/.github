@@ -117,7 +117,7 @@
 
 <div align="center">
 
-[![시연 영상 보기](https://img.youtube.com/vi/XdvNQHc-TbQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=XdvNQHc-TbQ)
+[![시연 영상 보기](https://img.youtube.com/vi/XdvNQHc-TbQ/maxresdefault.jpg)](https://youtu.be/0ai063UCDR4?si=QqjVUom_qMczcqTC)
 
 ** 클릭하여 시연 영상 보기**
 
