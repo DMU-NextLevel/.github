@@ -125,9 +125,16 @@
 
 ---
 ## 기타 자료
-[NextLeve_최종발표ppt.pptx](https://github.com/user-attachments/files/23485314/NextLeve_.ppt.pptx)
-[브로셔](https://github.com/DMU-NextLevel/.github/blob/main/profile/2025%ED%95%99%EB%85%84%EB%8F%84%20%EC%A1%B8%EC%97%85%EC%9E%91%ED%92%88%EC%A7%91%20%EB%B8%8C%EB%A1%9C%EC%85%94_%EC%BB%B4%EC%86%8C_D_NextLevlel.hwp?download=true)
-[프로젝트 계획서](https://github.com/DMU-NextLevel/.github/blob/main/profile/NextLevel_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B3%84%ED%9A%8D%EC%84%9C_final.pdf?download=true)
+|자료명|다운로드|
+|-----------------------------|-------------------|
+|최종발표PPT|[NextLeve_최종발표ppt.pptx](https://github.com/DMU-NextLevel/.github/releases/download/docs/NextLevel_Presentation.pptx)|
+|브로셔|[브로셔](https://github.com/DMU-NextLevel/.github/releases/download/docs/NextLevel_Brochure.hwp)|
+|프로젝트 계획서 | [프로젝트 계획서](https://github.com/DMU-NextLevel/.github/releases/download/docs/NextLevel_Plan.pdf)|
+|포스터 |[포스터](https://github.com/DMU-NextLevel/.github/releases/download/docs/NextLevel_Poster.pdf) |
+
+
+
+
 
 
 
