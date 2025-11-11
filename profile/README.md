@@ -125,7 +125,7 @@
 
 ---
 ## 기타 자료
-|자료명|다운로드|
+|자료명|링크|
 |-----------------------------|-------------------|
 |최종발표PPT|[NextLeve_최종발표ppt.pptx](https://github.com/DMU-NextLevel/.github/releases/download/docs/NextLevel_Presentation.pptx)|
 |브로셔|[브로셔](https://github.com/DMU-NextLevel/.github/releases/download/docs/NextLevel_Brochure.hwp)|
