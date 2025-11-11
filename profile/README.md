@@ -113,7 +113,7 @@
 
 ---
 
-##프로젝트 시연영상
+## 프로젝트 시연영상
 
 <div align="center">
 
@@ -123,7 +123,9 @@
 
 </div>
 
-
 ---
+## 기타 자료
+[NextLeve_최종발표ppt.pptx](https://github.com/user-attachments/files/23485314/NextLeve_.ppt.pptx)
+
 
 
